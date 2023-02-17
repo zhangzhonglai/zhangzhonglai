@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Z's GitHub stats](https://zzl-github-stats.vercel.app/api?username=zhangzhonglai&count_private=true&show_icons=true&theme=transparent)](https://github.com/zhangzhonglai)
+
+[![Top Langs](https://zzl-github-stats.vercel.app/api/top-langs/?username=zhangzhonglai&theme=transparent)](https://github.com/zhangzhonglai)
+
 <!--
 **zhangzhonglai/zhangzhonglai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
