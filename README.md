@@ -2,7 +2,7 @@
 
 [![Z's GitHub stats](https://zzl-github-stats.vercel.app/api?username=zhangzhonglai&count_private=true&show_icons=true&theme=transparent)](https://github.com/zhangzhonglai)
 
-[![Top Langs](https://zzl-github-stats.vercel.app/api/top-langs/?username=zhangzhonglai&theme=transparent&exclude_repo=RxResume,cv,immortalwrt-mt798x,AndroidPushBot)](https://github.com/zhangzhonglai)
+[![Top Langs](https://zzl-github-stats.vercel.app/api/top-langs/?username=zhangzhonglai&theme=transparent&exclude_repo=RxResume,cv,immortalwrt-mt798x,AndroidPushBot,ShellClash,clash-verge,Clash.Meta)](https://github.com/zhangzhonglai)
 
 <!--
 **zhangzhonglai/zhangzhonglai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
